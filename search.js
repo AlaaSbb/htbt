@@ -96,7 +96,7 @@
     .prop("type", "text/css")
     .html("\
       .selected {\
-        background-color: #d3d3d3;\
+        background-color: #3f3e3a;\
       }\
     ")
     .appendTo("head");
