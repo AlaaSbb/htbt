@@ -1,4 +1,3 @@
- <script>
     // Capture URL parameters
     const urlParams = new URLSearchParams(window.location.search);
 
@@ -147,4 +146,3 @@
         }
       }
     });
-</script>
